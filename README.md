@@ -18,15 +18,13 @@ En mi caja de herramientas tecnológicas encontrarás:
 
 Aquí tienes un vistazo rápido a algunos de mis proyectos:
 
-1. **Proyecto A**
-   - Descripción: [Breve descripción del proyecto A]
-   - Características Clave: [Menciona algunas características notables]
-   - Tecnologías: [Enumera las tecnologías utilizadas]
+1. **Pokémon' Project**
+   - Descripción: una Single Page Application a partir de la API pokeapi en la que se puede: Buscar Pokémon, Visualizar su Información, Ordenarlos por Orden Alfabético o por Estadística, Filtrarlos por Tipo y Crear nuevos Pokémon.
+   - Tecnologías: React, Redux, Node, Express y Sequelize
 
-2. **Proyecto B**
-   - Descripción: [Breve descripción del proyecto B]
-   - Características Clave: [Menciona algunas características notables]
-   - Tecnologías: [Enumera las tecnologías utilizadas]
+2. **Project of Rick & Morty**
+   - Descripción: una Single Page Application a partir de la API de rickandmorty en la que se puede: Buscar un Personaje de la Serie, Visualizar su Información, Agregar Favoritos, Ordenarlos por Orden Alfabético y Filtrarlos por Género (Primer Gran Proyecto realizado).
+   - Tecnologías: React-Vite, Redux, Node, Express y Sequelize
 ##
 Estoy emocionado por las oportunidades de colaboración y crecimiento. Si estás buscando un Desarrollador Full-Stack comprometido, creativo y orientado a resultados, ¡estaré encantado de conectarte!
 

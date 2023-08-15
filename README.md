@@ -18,11 +18,11 @@ En mi caja de herramientas tecnológicas encontrarás:
 
 Aquí tienes un vistazo rápido a algunos de mis proyectos:
 
-1. **Pokémon' Project**
+1. **Pokémon Project**
    - Descripción: una Single Page Application a partir de la API pokeapi en la que se puede: Buscar Pokémon, Visualizar su Información, Ordenarlos por Orden Alfabético o por Estadística, Filtrarlos por Tipo y Crear nuevos Pokémon.
    - Tecnologías: React, Redux, Node, Express y Sequelize
 
-2. **Project of Rick & Morty**
+2. **Rick & Morty Project**
    - Descripción: una Single Page Application a partir de la API de rickandmorty en la que se puede: Buscar un Personaje de la Serie, Visualizar su Información, Agregar Favoritos, Ordenarlos por Orden Alfabético y Filtrarlos por Género (Primer Gran Proyecto realizado).
    - Tecnologías: React-Vite, Redux, Node, Express y Sequelize
 ##

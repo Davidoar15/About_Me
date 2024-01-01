@@ -10,8 +10,9 @@ Actualmente, mi destreza abarca lenguajes como JavaScript y C++, y me he sumergi
 
 En mi caja de herramientas tecnológicas encontrarás:
 
-- Front End: HTML, CSS, JavaScript, ReactJS, Redux
-- Back End: Node, Express, Sequelize, PostgreSQL
+- Front End: HTML, CSS, JavaScript, React, Redux, Next.js, Vue.
+- Back End: Node.js, Express, Sequelize, Mongoose.
+- Base de Datos: PostgreSQL, MongoDB, MongoDB Atlas.
 - Control de Versiones: Git
 ##
 ## Proyectos Destacados

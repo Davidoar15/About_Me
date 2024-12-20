@@ -28,14 +28,13 @@ Aquí tienes un vistazo rápido a algunos de mis proyectos:
       - Crear nuevos Pokémon.
    - Tecnologías: React, Redux, Node, Express, Sequelize y postgreSQL.
 
-2. **Rick & Morty Project (Primer Proyecto)**
-   - Descripción: una Single Page Application a partir de la API de rickandmorty en la que se puede:
-      - Buscar un Personaje de la Serie.
-      - Visualizar su Información.
-      - Agregar a Favoritos.
-      - Ordenarlos por Orden Alfabético.
-      - Filtrarlos por Género.
-   - Tecnologías: React-Vite, Redux, Node, Express, Sequelize y postgreSQL.
+2. **DApp Storage Project**
+   - Descripción: Una aplicación descentralizada que permite a los usuarios almacenar y recuperar datos en la blockchain mediante un contrato inteligente desplegado en la red de prueba Zksync Sepolia Testnet. Los usuarios pueden conectarse a MetaMask, enviar datos al contrato y recuperarlos. La interfaz está desarrollada en Preact, mientras que el contrato inteligente utiliza Solidity.
+   - Tecnologías: Preact (Vite), Solidity, Ethers.js, MetaMask, Atlas, Zksync Sepolia Testnet.
+  
+3. **Chess Game Project**
+   - Descripción: Un juego de ajedrez. El objetivo principal es implementar las reglas del ajedrez y permitir que dos jugadores jueguen entre sí en una interfaz gráfica. Este proyecto sirve como práctica para mejorar las habilidades en Java y en el desarrollo de interfaces gráficas.
+   - Tecnologías: Java.
 ##
 Estoy emocionado por las oportunidades de colaboración y crecimiento. Si estás buscando un Desarrollador Full-Stack comprometido, creativo y orientado a resultados, ¡estaré encantado de conectarte!
 
